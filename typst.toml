@@ -1,0 +1,9 @@
+[package]
+name = "ece-report"
+version = "0.1.0"
+entrypoint = "lib.typ"
+authors = ["Pierre Lapolla"]
+license = "MIT"
+repository = ""
+description = "Simple internship report template package for school reports."
+keywords = ["typst", "template", "internship", "report"]
