@@ -1,11 +1,11 @@
 [package]
-name = "carnet-report"
+name = "easy-internship"
 version = "0.1.0"
 entrypoint = "lib.typ"
 authors = ["Pierre Lapolla <@PierreLapolla>"]
 license = "MIT-0"
-description = "School and internship reports with cover and logos."
-repository = "https://github.com/PierreLapolla/ece_report"
+description = "Internship and school reports with cover and logos."
+repository = "https://github.com/PierreLapolla/easy-internship"
 keywords = ["report", "internship", "school", "university", "french"]
 categories = ["report"]
 disciplines = []

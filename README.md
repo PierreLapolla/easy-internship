@@ -1,9 +1,9 @@
-# carnet-report
+# easy-internship
 
 A clean report template for school projects and internship reports: cover page, table of contents, school and company logos in the header, and a footer with author, page number and date. Works in English and French.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PierreLapolla/ece_report/v0.1.0/thumbnail.png" alt="Cover page" width="45%">
+  <img src="https://raw.githubusercontent.com/PierreLapolla/easy-internship/v0.1.0/thumbnail.png" alt="Cover page" width="45%">
 </p>
 
 ## Getting started
@@ -11,13 +11,13 @@ A clean report template for school projects and internship reports: cover page, 
 Create a new project from the template:
 
 ```sh
-typst init @preview/carnet-report:0.1.0
+typst init @preview/easy-internship:0.1.0
 ```
 
 Or use it in an existing document:
 
 ```typst
-#import "@preview/carnet-report:0.1.0": report
+#import "@preview/easy-internship:0.1.0": report
 
 #show: report.with(
   title: [My report],

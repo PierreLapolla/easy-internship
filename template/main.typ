@@ -1,4 +1,4 @@
-#import "@preview/carnet-report:0.1.0": report
+#import "@preview/easy-internship:0.1.0": report
 
 #show: report.with(
   title: [Internship Report],
