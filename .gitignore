@@ -8,3 +8,6 @@ out
 gen
 
 /example
+# Build output
+target/
+*.pdf

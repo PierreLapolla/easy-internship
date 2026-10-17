@@ -1,9 +1,18 @@
 [package]
-name = "ece-report"
+name = "carnet-report"
 version = "0.1.0"
 entrypoint = "lib.typ"
-authors = ["Pierre Lapolla"]
-license = "MIT"
-repository = ""
-description = "Simple internship report template package for school reports."
-keywords = ["typst", "template", "internship", "report"]
+authors = ["Pierre Lapolla <@PierreLapolla>"]
+license = "MIT AND MIT-0"
+description = "School and internship reports with cover and logos."
+repository = "https://github.com/PierreLapolla/ece_report"
+keywords = ["report", "internship", "school", "university", "french"]
+categories = ["report"]
+disciplines = []
+compiler = "0.13.0"
+exclude = ["example/*"]
+
+[template]
+path = "template"
+entrypoint = "main.typ"
+thumbnail = "thumbnail.png"
