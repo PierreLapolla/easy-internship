@@ -3,14 +3,13 @@ name = "carnet-report"
 version = "0.1.0"
 entrypoint = "lib.typ"
 authors = ["Pierre Lapolla <@PierreLapolla>"]
-license = "MIT AND MIT-0"
+license = "MIT-0"
 description = "School and internship reports with cover and logos."
 repository = "https://github.com/PierreLapolla/ece_report"
 keywords = ["report", "internship", "school", "university", "french"]
 categories = ["report"]
 disciplines = []
 compiler = "0.13.0"
-exclude = ["example/*"]
 
 [template]
 path = "template"

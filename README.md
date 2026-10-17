@@ -68,4 +68,4 @@ Logos and bibliography are passed as content, so their paths are resolved relati
 
 ## License
 
-The package is licensed under [MIT](LICENSE). The files in `template/`, which are copied into your project by `typst init`, are licensed under [MIT-0](LICENSE-MIT-0), so you don't have to keep any attribution in your report.
+[MIT-0](LICENSE): use, modify and share freely, no attribution required in your report.
